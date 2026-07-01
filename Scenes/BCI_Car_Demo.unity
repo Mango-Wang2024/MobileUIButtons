@@ -2638,10 +2638,10 @@ MonoBehaviour:
     type: 2}
   tileDriveMaterial: {fileID: 2100000, guid: 5b5039cc2c1e8459c88a44669424da31, type: 2}
   showTileNumberLabels: 1
-  tileNumberLabelColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
-  tileNumberLabelFontSize: 120
+  tileNumberLabelColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 0.5019608}
+  tileNumberLabelFontSize: 100
   tileNumberLabelHeight: 0.04
-  minimumTileNumberLabelFontSize: 120
+  minimumTileNumberLabelFontSize: 100
   statusText: {fileID: 511585290}
   runMode: 0
   interactionMode: 0
@@ -2659,7 +2659,7 @@ MonoBehaviour:
   calibrationTrials: 16
   forceSixteenTargetLayout: 1
   firstReadySeconds: 5
-  interTrialSeconds: 0.5
+  interTrialSeconds: 2
   cueSeconds: 0.7
   postCueBlinkSeconds: 1.5
   trialDurationSeconds: 8.4
